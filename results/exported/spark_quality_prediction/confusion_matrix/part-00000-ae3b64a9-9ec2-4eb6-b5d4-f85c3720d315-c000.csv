@@ -1,0 +1,10 @@
+actual_label,predicted_label,count
+Declining,Declining,3122
+Declining,Improving,2288
+Declining,Stable,2680
+Improving,Declining,1154
+Improving,Improving,3085
+Improving,Stable,1151
+Stable,Declining,2171
+Stable,Improving,1840
+Stable,Stable,3733

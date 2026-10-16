@@ -1,0 +1,18 @@
+# Raw datasets (too large for GitHub)
+data/
+*.json
+!udf/test_*.json
+# Python virtual environment & cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+# Local runtime logs & databases
+logs/
+*.log
+metastore_db/
+.sparkStaging/
+# OS and Editor temp files
+.DS_Store
+.idea/
+.vscode/

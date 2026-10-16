@@ -1,0 +1,2 @@
+113.4 M  113.4 M  /yelp_project/raw/yelp_academic_dataset_business.json
+5.0 G    5.0 G    /yelp_project/raw/yelp_academic_dataset_review.json
